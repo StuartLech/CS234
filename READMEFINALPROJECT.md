@@ -27,6 +27,6 @@ This platform is built with the intent to create a space where users can freely 
 
 
 ```bash
-git clone https://github.com/StewTheDawg/CS234.git
+git clone https://github.com/StuartLech/CS234.git
 cd CS234
 # Follow any additional setup and installation instructions
