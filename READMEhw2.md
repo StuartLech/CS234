@@ -59,7 +59,7 @@ A7: Domain Name System
 
 **`Q8:`** If IP is given as 192.168.11.115/21 what is the subnet mask?
 ```
-A8: 255.255.255.224
+A8: 255.255.248.0
 ```
 
 **`Q9:`** Can a web site have both an IP address and a domain name?
@@ -107,7 +107,7 @@ A18: 200 OK
 ```
 **`Q19:`** A resource not located by a web server will result in which status code being returned by the web server?
 ```
-A19: status code of 404 Not Found
+A19: A19: From 300 to 399 A20: 175.188.0.0
 ```
 **`Q20:`** Convert the IPv6 address AFBC::1000:26C:FA:C7A8 to IPv4
 ```
